@@ -1,0 +1,6 @@
+framework module Pods_bitscan {
+  umbrella header "Pods-bitscan-umbrella.h"
+
+  export *
+  module * { export * }
+}
